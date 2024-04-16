@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+
+.notFoundContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.notFoundHeading {
+  font-family: roboto;
+}
